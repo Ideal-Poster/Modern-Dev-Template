@@ -1,3 +1,10 @@
+This is a template created with Create React App with added functions for web developement. It includes.
+- Normalize CSS
+- Sass
+- Source Map Explorer
+- StoryBook
+- Prettier & Husky
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
